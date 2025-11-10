@@ -3,7 +3,6 @@ name: CI
 on:
   push:
     branches: docs
-
 jobs:
     build:
         runs-on: ubuntu-latest
